@@ -1,4 +1,3 @@
-def game():
     n = 1024
     i = 9
     print("Welcome to Guess the Number Game!\nNo. of guesses left: 10")
@@ -51,4 +50,3 @@ def game():
             elif x == "N" or x == "n":
                 print("Thanks for Playing!")
                 break
-game()
